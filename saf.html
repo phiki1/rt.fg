@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Shop</title>
+</head>
+<body>
+    <div id ='main' >
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.simplilearn.com%2Fice9%2Ffree_resources_article_thumb%2Fwhat_is_image_Processing.jpg&tbnid=x-vCr75bhEc-WM&vet=12ahUKEwipgL3X2NOCAxUEPhAIHQIwDqcQMygCegQIARBM..i&imgrefurl=https%3A%2F%2Fwww.simplilearn.com%2Fimage-processing-article&docid=NMmM-IXyCkU2hM&w=848&h=477&q=image&ved=2ahUKEwipgL3X2NOCAxUEPhAIHQIwDqcQMygCegQIARBM">
+        <p> Lorem ipsym </p>
+        <button id="buy">Купить<button>
+    </div>
+
+</body>
+</html>
